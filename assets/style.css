@@ -3,8 +3,8 @@
              
              .hero-section {
                  background: url("../assets/images/spaimage.png") no-repeat center center;
-                 width: 100%;
-                 height: 70vh;
+                width: 100%;
+                 height: 400px;
                  background-size: cover;
                  color: #FFEBD6;
                  display: flex;
@@ -46,3 +46,20 @@
             margin-left: 10px;
         }
   
+        .container {
+            font-family: 'Handlee', cursive;
+        }
+
+    .fa-brands {
+            color: white;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .social-icons a {
+            padding: 15px;
+        }
+
+        .card {
+            margin-bottom: 20px;
+        }
